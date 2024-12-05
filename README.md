@@ -86,7 +86,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 ## 📸 Créditos
 
-As imagens usadas para desenvolvimento foram retiradas de [Freepik](https://www.freepik.com/). Agradecemos pelo material visual!
+As imagens usadas para desenvolvimento foram retiradas de [Freepik](https://www.freepik.com/).
 
 ## 📜 Licença
 
